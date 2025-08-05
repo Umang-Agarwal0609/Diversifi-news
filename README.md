@@ -63,7 +63,7 @@ An additional field, `overall_sentiment`, is included in the response. It is cal
 The application uses the Hugging Face `transformers` library and the `distilbert-base-uncased-finetuned-sst-2-english` model for sentiment classification. This model is pre-trained and fine-tuned for binary sentiment analysis tasks and provides accurate predictions for short texts such as news headlines.
 
 
-## Docker Support (Optional)
+## Docker Support
 ---
 
 The application includes a `Dockerfile` and can be run in a containerized environment using Docker.
