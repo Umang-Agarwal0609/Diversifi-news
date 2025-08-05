@@ -84,7 +84,7 @@ docker run -p 8000:8000 diversifi-app
 ## Deployment
 ---
 
-The application has been deployed using [Render](https://render.com) with Docker. The live API documentation is available at:
+The live API documentation application has been deployed having Docker integration [Link to the Deployed Version]([https://render.com](https://diversifi-backend.onrender.com/docs)) . The live API documentation is available at:
 
 ```
 https://diversifi-backend.onrender.com/docs
